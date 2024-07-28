@@ -7,7 +7,7 @@ ul {
 .p-datatable .p-datatable-thead>tr>th {
     text-align: right !important;
     font-family: "tajawal-black" !important;
-    background-color: #27929D !important;
+    background-color: #60b4c0 !important;
 }
 
 .p-datatable .p-datatable-tbody>tr>td {
@@ -38,4 +38,13 @@ p-splitbutton {
 
 .clinics-radius {
     border-radius: 0 14px 0 0;
+}
+
+p-calendar {
+    direction: ltr;
+    text-align: center;
+}
+
+p-calendar input {
+    text-align: end;
 }

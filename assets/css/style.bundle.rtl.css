@@ -30,9 +30,9 @@
   --bs-gray-800: #252F4A;
   --bs-gray-900: #071437;
   --bs-light: #F9F9F9;
-  --bs-primary: #1B84FF;
+  --bs-primary: #60b4c0;
   --bs-secondary: #F9F9F9;
-  --bs-success: #27929D;
+  --bs-success: #60b4c0;
   --bs-info: #7239EA;
   --bs-warning: #F6C000;
   --bs-danger: #F8285A;
@@ -120,8 +120,8 @@
   --bs-focus-ring-width: 0.25rem;
   --bs-focus-ring-opacity: 0.25;
   --bs-focus-ring-color: rgba(27, 132, 255, 0.25);
-  --bs-form-valid-color: #27929D;
-  --bs-form-valid-border-color: #27929D;
+  --bs-form-valid-color: #60b4c0;
+  --bs-form-valid-border-color: #60b4c0;
   --bs-form-invalid-color: #F8285A;
   --bs-form-invalid-border-color: #F8285A;
 }
@@ -3277,8 +3277,8 @@ textarea.form-control-lg {
 
 .btn-success {
   --bs-btn-color: #000000;
-  --bs-btn-bg: #27929D;
-  --bs-btn-border-color: #27929D;
+  --bs-btn-bg: #60b4c0;
+  --bs-btn-border-color: #60b4c0;
   --bs-btn-hover-color: #000000;
   --bs-btn-hover-bg: #3acf6d;
   --bs-btn-hover-border-color: #2ecc64;
@@ -3288,8 +3288,8 @@ textarea.form-control-lg {
   --bs-btn-active-border-color: #2ecc64;
   --bs-btn-active-shadow: none;
   --bs-btn-disabled-color: #000000;
-  --bs-btn-disabled-bg: #27929D;
-  --bs-btn-disabled-border-color: #27929D;
+  --bs-btn-disabled-bg: #60b4c0;
+  --bs-btn-disabled-border-color: #60b4c0;
 }
 
 .btn-info {
@@ -3412,19 +3412,19 @@ textarea.form-control-lg {
 }
 
 .btn-outline-success {
-  --bs-btn-color: #27929D;
-  --bs-btn-border-color: #27929D;
+  --bs-btn-color: #60b4c0;
+  --bs-btn-border-color: #60b4c0;
   --bs-btn-hover-color: #000000;
-  --bs-btn-hover-bg: #27929D;
-  --bs-btn-hover-border-color: #27929D;
+  --bs-btn-hover-bg: #60b4c0;
+  --bs-btn-hover-border-color: #60b4c0;
   --bs-btn-focus-shadow-rgb: 23, 198, 83;
   --bs-btn-active-color: #000000;
-  --bs-btn-active-bg: #27929D;
-  --bs-btn-active-border-color: #27929D;
+  --bs-btn-active-bg: #60b4c0;
+  --bs-btn-active-border-color: #60b4c0;
   --bs-btn-active-shadow: none;
-  --bs-btn-disabled-color: #27929D;
+  --bs-btn-disabled-color: #60b4c0;
   --bs-btn-disabled-bg: transparent;
-  --bs-btn-disabled-border-color: #27929D;
+  --bs-btn-disabled-border-color: #60b4c0;
   --bs-gradient: none;
 }
 
@@ -28501,9 +28501,9 @@ textarea.form-control-lg {
   --bs-gray-900: #071437;
   --bs-gray-900-rgb: 7, 20, 55;
   --bs-light: #F9F9F9;
-  --bs-primary: #1B84FF;
+  --bs-primary: #60b4c0;
   --bs-secondary: #F9F9F9;
-  --bs-success: #27929D;
+  --bs-success: #60b4c0;
   --bs-info: #7239EA;
   --bs-warning: #F6C000;
   --bs-danger: #F8285A;
@@ -28516,7 +28516,7 @@ textarea.form-control-lg {
   --bs-warning-active: #DEAD00;
   --bs-danger-active: #D81A48;
   --bs-dark-active: #111318;
-  --bs-primary-light: #E9F3FF;
+  --bs-primary-light: #60b4c0;
   --bs-secondary-light: #F9F9F9;
   --bs-success-light: #DFFFEA;
   --bs-info-light: #F8F5FF;
@@ -28552,7 +28552,7 @@ textarea.form-control-lg {
   --bs-text-primary: #1B84FF;
   --bs-text-secondary: #F9F9F9;
   --bs-text-light: #F9F9F9;
-  --bs-text-success: #27929D;
+  --bs-text-success: #60b4c0;
   --bs-text-info: #7239EA;
   --bs-text-warning: #F6C000;
   --bs-text-danger: #F8285A;
@@ -28661,14 +28661,14 @@ textarea.form-control-lg {
   --bs-gray-900: #F5F5F5;
   --bs-gray-900-rgb: 245, 245, 245;
   --bs-light: #1B1C22;
-  --bs-primary: #006AE6;
+  --bs-primary: #60b4c0;
   --bs-secondary: #363843;
   --bs-success: #00A261;
   --bs-info: #883FFF;
   --bs-warning: #C59A00;
   --bs-danger: #E42855;
   --bs-dark: #272A34;
-  --bs-primary-active: #107EFF;
+  --bs-primary-active: #60b4c0;
   --bs-secondary-active: #464852;
   --bs-light-active: #1F212A;
   --bs-success-active: #01BF73;
@@ -29372,7 +29372,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   border-color: #F9F9F9 !important;
 }
 .separator.separator-content.border-success::before, .separator.separator-content.border-success::after {
-  border-color: #27929D !important;
+  border-color: #60b4c0 !important;
 }
 .separator.separator-content.border-info::before, .separator.separator-content.border-info::after {
   border-color: #7239EA !important;
@@ -47232,11 +47232,11 @@ body.page-bg-image-lg {
 }
 
 [data-bs-theme=light] body:not(.app-blank) {
-  background-image: url("../media/patterns/header-bg.jpg");
+  /* background-image: url("../media/patterns/header-bg.jpg"); */
 }
 
 [data-bs-theme=dark] body:not(.app-blank) {
-  background-image: url("../media/patterns/header-bg-dark.jpg");
+  /* background-image: url("../media/patterns/header-bg-dark.jpg"); */
 }
 
 .text-page-bg {
