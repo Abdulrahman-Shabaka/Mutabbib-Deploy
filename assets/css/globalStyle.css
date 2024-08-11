@@ -225,6 +225,9 @@ p-menubar p-menubarsub .p-element {
     color: #ffffff;
 }
 
+.custom-Preview-Image p-image>span>img {
+    width: 100%;
+}
 
 .p-paginator .p-paginator-pages .p-paginator-page.p-highlight {
     background: #60b4c0;
@@ -237,6 +240,9 @@ p-menubar p-menubarsub .p-element {
     border-radius: 50%;
     background-color: #60b3c095;
 }
+
+
+
 
 @media (min-width: 992px) {
 
